@@ -103,10 +103,6 @@ make install && make build
 - Telegram Bot Token from [@BotFather](https://t.me/BotFather)
 - BetaBotz API Key from [api.betabotz.eu.org](https://api.betabotz.eu.org)
 
-## Installation
-
-See [INSTALL.md](INSTALL.md) for detailed installation instructions.
-
 ### Docker
 
 ```bash
